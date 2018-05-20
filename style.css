@@ -1,0 +1,23 @@
+.main_content{}
+.main_content .summary {}
+.main_content .summary .section_title {
+  color: #2d7788;
+  text-transform: uppercase;
+   font-weight: 900;
+   display: flex;
+   align-items: center;
+   margin-bottom: 20px;
+}
+.main_content .summary .section_title i{
+  color: #fff;
+  font-weight: 900;
+  background: #2d7788;
+  font-size: 16px;
+  border-radius: 50%;
+  width: 30px; height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+}
+.main_content .summary .summary-text {}
